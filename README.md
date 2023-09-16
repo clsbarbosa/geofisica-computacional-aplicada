@@ -9,11 +9,12 @@
    + Técnicas de atenuação do sinal sísmico no contorno
    + Migração Reversa no Tempo
 
-## Conteúdo Teórico
+## Descrição dos Diretórios
    + Diretório: ./Aulas
-
-## Códigos Computacionais
+      + Conteúdo teórico das aulas ministradas
+        
    + Diretório: ./Implemetacoes_Computacionais
-
-## Exercícios Teóricos e Práticos
+     + Implementações computacionais em linguagem de programação Python das aplicações relacionadas ao conteúdo teórico
+       
    + Diretório: ./Exercicios_Propostos
+      + Exercícios propostos para fixação do conteúdo explicitado
