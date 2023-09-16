@@ -4,6 +4,7 @@
 
 ## Ementa da Disciplina
    + Introdução à geofísica com ênfase em imageamento sísmico
+   + Fundamentos de sísmica
    + Método das diferenças finitas
    + Equação da onda sísmica
    + Técnicas de atenuação do sinal sísmico no contorno
