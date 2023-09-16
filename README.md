@@ -18,3 +18,13 @@
        
    + Diretório: ./Exercicios_Propostos
       + Exercícios propostos para fixação do conteúdo explicitado
+
+## Requisitos
+   + Cálculo de múltiplas variáveis
+   + Equações Diferenciais Parciais e Ordinárias
+   + Álgebra Linear Computacional
+   + Linguagem de Programação Python (fortemente recomendável)
+
+## Contatos
+   + Professor Responsável: José Luis Drummond Alves
+   + Assistente: Carlos Henrique dos Santos Barbosa (contato: clshenry@lamce.coppe.ufrj.br)
