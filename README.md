@@ -13,7 +13,7 @@
    + Diretório: ./Aulas
 
 ## Códigos Computacionais
-   + Implementações Computacionais
+   + Diretório: ./Implemetacoes_Computacionais
 
 ## Exercícios Teóricos e Práticos
-   + Exercícios
+   + Diretório: ./Exercicios_Propostos
