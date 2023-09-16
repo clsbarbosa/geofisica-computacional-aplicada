@@ -1,6 +1,6 @@
 # Geofísica Computacional Aplicada
 
-> Disciplina ministrada na pós-graduação do Programa de Engenharia Civil da Universidade Federal do Rio de Janeiro.
+> Disciplina ministrada na pós-graduação do Programa de Engenharia Civil da Universidade Federal do Rio de Janeiro (LAMCE/COPPE/UFRJ).
 
 ## Ementa da Disciplina
    + Introdução à geofísica com ênfase em imageamento sísmico
