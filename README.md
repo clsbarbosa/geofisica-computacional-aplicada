@@ -21,9 +21,7 @@
       + Exercícios propostos para fixação do conteúdo explicitado
 
 ## Requisitos
-   + Cálculo de múltiplas variáveis
-   + Equações Diferenciais Parciais e Ordinárias
-   + Álgebra Linear Computacional
+   + Conceitos de cálculo de múltiplas variáveis, Equações Diferenciais Parciais e Álgebra Linear
    + Linguagem de Programação Python (fortemente recomendável)
 
 ## Contatos
