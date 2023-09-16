@@ -7,6 +7,10 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
 </div>
 
+## Requisitos
+   + Conceitos de cálculo de múltiplas variáveis, Equações Diferenciais Parciais e Álgebra Linear
+   + Linguagem de Programação Python (fortemente recomendável)
+
 ## Ementa da Disciplina
    + Introdução à geofísica com ênfase em imageamento sísmico
    + Fundamentos de sísmica
@@ -24,10 +28,6 @@
        
    + Diretório: ./Exercicios_Propostos
       + Exercícios propostos para fixação do conteúdo explicitado
-
-## Requisitos
-   + Conceitos de cálculo de múltiplas variáveis, Equações Diferenciais Parciais e Álgebra Linear
-   + Linguagem de Programação Python (fortemente recomendável)
 
 ## Contatos
    + Professor Responsável: José Luis Drummond Alves
